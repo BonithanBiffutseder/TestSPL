@@ -6,4 +6,6 @@
 
 * Grundlagen GIT
 * Insterlation VM (Linux Mint)
+* Update VM(Linux)
 * Grundlagen Python
+
